@@ -1,4 +1,4 @@
 learn
 =====
 
-learning
+learning java, c++
